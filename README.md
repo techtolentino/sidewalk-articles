@@ -1,6 +1,6 @@
 # Stories
 
-## The Blockumentary
+## A hip hop narrative
 
 As a kid who was born and raised in the 80's, it was nearly impossible to escape the surging influence of hip hop culture. Living in a multi-cultural neighborhood in Southeast San Diego, every kid on our block used to spend afternoons in the cul de sac, listening to cassettes and playing some random pick-up game.
 

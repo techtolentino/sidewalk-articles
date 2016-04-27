@@ -3,10 +3,13 @@
 ---
 
 
-// Our variables
+// Initial settings
 @import 'normalize';
 @import 'config';
+@import 'colors';
+@import 'typography';
+
+// Project variables
 @import 'base';
 @import 'band';
-@import 'typography';
 @import 'utilities';
