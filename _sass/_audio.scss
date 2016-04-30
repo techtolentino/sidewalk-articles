@@ -1,7 +1,8 @@
 #audioplayer {
 	display: flex;
-	border: solid;
-	background: $gray-blue-light;
+	border: 1px solid $gray;
+	background: $light;
+	border-radius: 2px;
 	justify-content: space-between;
 	padding: .25em 1em .25em 1em;
 }
@@ -16,7 +17,7 @@
 
 .play:before {
 	content: '▶';
-
+	color: $gray;
 }
 .pause:before {
 	content: '||';
@@ -27,11 +28,11 @@
 	width: 100%;
 	align-self: center;
 	border-radius: .5em;
-	background: rgba(0,0,0,.3);
+	background: $gray-blue-light;
 }
 #playhead {
 	width: 18px;
 	height: 18px;
 	border-radius: 50%;
-	background: rgba(0, 0, 0,1);
+	background: $gray-mid;
 }
