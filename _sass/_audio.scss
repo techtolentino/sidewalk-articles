@@ -1,38 +1,37 @@
-#audioplayer{
-	width: 480px;
-	height: 60px;
-	margin: 50px auto auto auto;
-border: solid;
+#audioplayer {
+	display: flex;
+	border: solid;
+	background: $gray-blue-light;
+	justify-content: space-between;
+	padding: .25em 1em .25em 1em;
 }
 
-#pButton{
-    height:60px;
-    width: 60px;
+#pButton {
     border: none;
-    background-size: 50% 50%;
-    background-repeat: no-repeat;
-    background-position: center;
-    float:left;
     outline:none;
+    background: transparent;
+    padding-right: 1em;
+    width: 2em;
 }
 
-.play{background: url('http://www.alexkatz.me/codepen/images/play.png') ;}
-.pause{background: url('http://www.alexkatz.me/codepen/images/pause.png') ;}
+.play:before {
+	content: '▶';
 
-#timeline{
-	width: 400px;
-	height: 20px;
-	margin-top: 20px;
-	float: left;
-	border-radius: 15px;
+}
+.pause:before {
+	content: '||';
+	font-weight: bolder;
+}
+
+#timeline {
+	width: 100%;
+	align-self: center;
+	border-radius: .5em;
 	background: rgba(0,0,0,.3);
-
 }
-#playhead{
+#playhead {
 	width: 18px;
 	height: 18px;
 	border-radius: 50%;
-	margin-top: 1px;
 	background: rgba(0, 0, 0,1);
-
 }

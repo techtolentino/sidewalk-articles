@@ -1,9 +1,7 @@
 var music = document.getElementById('music'); // id for audio element
 var duration; // Duration of audio clip
 var pButton = document.getElementById('pButton'); // play button
-
 var playhead = document.getElementById('playhead'); // playhead
-
 var timeline = document.getElementById('timeline'); // timeline
 // timeline width adjusted for playhead
 var timelineWidth = timeline.offsetWidth - playhead.offsetWidth;
