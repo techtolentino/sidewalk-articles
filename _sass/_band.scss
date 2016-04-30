@@ -1,4 +1,5 @@
 $vertical-space: $base;
+
 .band {
 	padding-top: $vertical-space;
 	padding-bottom: $vertical-space;
@@ -9,14 +10,14 @@ $vertical-space: $base;
 
 	&--MD {
 		padding-top: $vertical-space * 4;
-		padding-bottom: $vertical-space * 4;		
+		padding-bottom: $vertical-space * 4;
 	}
 	&--LG {
 		padding-top: $vertical-space * 6;
-		padding-bottom: $vertical-space * 6;		
-	}	
+		padding-bottom: $vertical-space * 6;
+	}
 	&--XL {
 		padding-top: $vertical-space * 8;
-		padding-bottom: $vertical-space * 8;		
-	}		
+		padding-bottom: $vertical-space * 8;
+	}
 }
