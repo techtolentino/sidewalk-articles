@@ -1,10 +1,6 @@
-<audio id="music" preload="true">
-	<source src="">
+<audio preload="auto" controls>
+	<source src="../audio/freda_payne-stares_and_whispers.mp3">
 </audio>
-<div id="audioplayer">
-	<button id="pButton" class="play" onclick="play()"></button>
-	<div id="timeline">
-		<div id="playhead"></div>
-	</div>
-</div>
+<script>{% include jquery.js %}</script>
 <script>{% include audio-player.js %}</script>
+<script>$( function() { $( 'audio' ).audioPlayer(); } );</script>
