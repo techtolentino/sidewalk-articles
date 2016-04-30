@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Freda Payne - Stares and Whispers"
+title:  "Episode 01 - Stares and Whispers"
 date:   2016-04-30 04:07:15 -0600
 track: freda-payne-stares-and-whispers
 ---
