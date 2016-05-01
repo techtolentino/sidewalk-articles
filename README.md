@@ -16,5 +16,4 @@ I'm hoping to share my story, of a child who grew up in a neighborhood full of i
 Maybe it's a memoir, an autobiography of some sort, but what I'm hoping to accomplish is a series of produced podcasts that take the listener on a journey.
 
 #### Author
-[Randy Tolentino](makertolentino@gmail.com)
 [@techtolentino](https://www.twitter.com/techtolentino)
