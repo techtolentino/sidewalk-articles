@@ -1,4 +1,4 @@
-# Stories
+# Sidewalk Articles
 
 ## A hip hop narrative
 
@@ -9,12 +9,12 @@ That's the thing, there was this culture, a young and raw hip-hop culture that u
 
 ## The Project
 
-I'm hoping to share my story, of a child who grew up in a neighborhood full of influences, some were good, however, most were potentially destructive. But, I hope to capture and retell some of the life-determining histories behind who I am today. 
+I'm hoping to share my story, of a child who grew up in a neighborhood full of influences, some were good, however, most were potentially destructive. But, I hope to capture and retell some of the life-determining histories behind who I am today.
 
 ## What to expect
 
 Maybe it's a memoir, an autobiography of some sort, but what I'm hoping to accomplish is a series of produced podcasts that take the listener on a journey.
 
 #### Author
-[Randy Tolentino](makertolentino@gmail.com)  
+[Randy Tolentino](makertolentino@gmail.com)
 [@techtolentino](https://www.twitter.com/techtolentino)
