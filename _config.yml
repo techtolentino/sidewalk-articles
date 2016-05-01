@@ -3,7 +3,7 @@ title: Stories
 email: makertolentino@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Audio documentaries of the life and times of hip-hop artist, Son of Ran
-baseurl: "/stories" # the subpath of your site, e.g. /blog
+baseurl: "/prior" # the subpath of your site, e.g. /blog
 url: "http://randytolentino.com" # the base hostname & protocol for your site
 twitter_username: techtolentino
 github_username:  techtolentino
